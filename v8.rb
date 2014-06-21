@@ -1,5 +1,7 @@
 require 'formula'
 
+# Compatible version with plv8-1.4.2, see http://pgxn.org/dist/plv8/1.4.2/
+
 # When trunk is 3.x, then 3.x is devel and 3.(x-1)
 # is stable.
 # https://code.google.com/p/v8/issues/detail?id=2545
@@ -7,7 +9,7 @@ require 'formula'
 
 class V8 < Formula
   homepage 'http://code.google.com/p/v8/'
-  # compatible version with plv8-1.4.2, see http://pgxn.org/dist/plv8/1.4.2/
+
   url 'https://github.com/v8/v8/archive/3.14.5.tar.gz'
   sha1 '595492842ff86eaa7e8cf5cf88b2dd9a000e357f'
 
