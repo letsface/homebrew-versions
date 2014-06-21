@@ -5,7 +5,7 @@ require 'formula'
 # https://code.google.com/p/v8/issues/detail?id=2545
 # http://omahaproxy.appspot.com/
 
-class V83145 < Formula
+class V8 < Formula
   homepage 'http://code.google.com/p/v8/'
   # compatible version with plv8-1.4.2, see http://pgxn.org/dist/plv8/1.4.2/
   url 'https://github.com/v8/v8/archive/3.14.5.tar.gz'
