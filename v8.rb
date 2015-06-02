@@ -10,8 +10,8 @@ require 'formula'
 class V8 < Formula
   homepage 'http://code.google.com/p/v8/'
 
-  url 'https://github.com/v8/v8/archive/3.14.5.tar.gz'
-  sha1 '595492842ff86eaa7e8cf5cf88b2dd9a000e357f'
+  url 'https://github.com/v8/v8-git-mirror/archive/4.3.66.zip'
+  sha1 '89756fbd938a0037296cf62e88ea6aa67bac87ea'
 
   option 'with-readline', 'Use readline instead of libedit'
 
