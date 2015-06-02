@@ -1,4 +1,5 @@
-class V8315 < Formula
+class V843 < Formula
+  # Note the following is a copy of https://raw.githubusercontent.com/Homebrew/homebrew-versions/master/v8-315.rb
   homepage "https://code.google.com/p/v8/"
   # Use the official github mirror, it is easier to find tags there
   url "https://github.com/v8/v8/archive/4.3.66.zip"
