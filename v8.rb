@@ -11,7 +11,7 @@ class V8 < Formula
   homepage 'http://code.google.com/p/v8/'
 
   url 'https://github.com/v8/v8-git-mirror/archive/4.3.66.zip'
-  sha1 '89756fbd938a0037296cf62e88ea6aa67bac87ea'
+  sha1 '87c22deac095f97a0378e0f5acaf8606cab02a4b'
 
   option 'with-readline', 'Use readline instead of libedit'
 
