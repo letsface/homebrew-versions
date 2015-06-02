@@ -9,7 +9,3 @@ brew install letsface/versions/v8
 ```
 
 Please note the prefix `homebrew-` must be omitted.
-
-## formulas
-
-* `v8`: used in [pgdocstore](https://github.com/letsface/pgdocstore/wiki#v8)
